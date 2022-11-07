@@ -9,8 +9,8 @@
   "sizes": "512x512",
   "type": "image/jpg"
 },{
-  "src": "./goSport144.jpg",
+  "src": "./goSport144.png",
   "sizes": "144x144",
-  "type": "image/jpg"
+  "type": "image/png"
 }
  ]}
