@@ -1,0 +1,16 @@
+{"name": "goSport",
+"short_name": "soSport",
+"theme_color": "#222831",
+"background_color": "#ffad17",
+"display": "standalone",
+"start_url": "index.html",
+"icons": [{
+  "src": "./goSport.jpg",
+  "sizes": "512x512",
+  "type": "image/jpg"
+},{
+  "src": "./goSport144.jpg",
+  "sizes": "144x144",
+  "type": "image/jpg"
+}
+ ]}
