@@ -7,12 +7,12 @@ self.addEventListener('install', e => {
       // Our application only has two files here index.html and manifest.json
       // but you can add more such as style.css as your app grows
       return cache.addAll([    
-        './index.html',
-        './manifest.json',
-        './views/calendar.html',
-        './views/porto_events.html',
-        './views/manutd_events.html',
-        './views/profile.html'
+        'index.html',
+        'manifest.json',
+        '/views/calendar.html',
+        '/views/porto_events.html',
+        '/views/manutd_events.html',
+        '/views/profile.html'
       ]);
     })
   );
